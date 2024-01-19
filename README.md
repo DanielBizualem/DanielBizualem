@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielBizualem
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering at ASTU
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me danishow375@gmail.com
 - 😄 Pronouns: ...
